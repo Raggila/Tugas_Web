@@ -1,0 +1,11 @@
+Latihan 1:
+
+<html>
+<body>
+
+<?php
+echo "Ngapain njir mending mancing";
+?> 
+
+</body>
+</html>
